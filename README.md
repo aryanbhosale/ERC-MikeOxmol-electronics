@@ -13,6 +13,6 @@ The mode setter:
   
 The wheel-motor controller:
   Serial monitor takes an input of linear and angular velocities from the user and returns
-  the speeds and rpms of of each of the two wheels using the differential drive model of a robot.
+  the speeds and rpms of each of the two wheels using the differential drive model of a robot.
   The respective motors named MotorL and MotorR turn according to these rpms.
   (Special cases of rectilinear motion with Wz=0 and motion with negative velocities have been taken into account)
