@@ -1,13 +1,10 @@
-# ERC-Automated-Vacuum-Cleaner-electronics
+# ERC Automated Vacuum Cleaner Electronics
 
-'Line following bot'[https://www.tinkercad.com/things/bgIEer8z0oY]
-
-
+[Line following bot](https://www.tinkercad.com/things/bgIEer8z0oY)
 
 
+[Mode Setter and differential drive](https://www.tinkercad.com/things/4bE99C3nQTb)
 
-'Mode Setter and differential drive'[https://www.tinkercad.com/things/4bE99C3nQTb]
-(Short description)
 The mode setter:
   LCD desplays the current mode and the respective DC motor turns on.
   There is a prompt for the user to select the mode of his/her preference on the serial monitor.
